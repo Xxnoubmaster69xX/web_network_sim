@@ -1,0 +1,5 @@
+{
+  "name": "Homelab Sim",
+  "description": "A visual homelab simulator with connection diagrams, component management, and a built-in terminal interface.",
+  "requestFramePermissions": []
+}
